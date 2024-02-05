@@ -6,3 +6,6 @@
 ![addpro](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/59f650c5-0696-4ed6-b99f-0e8825eb766d)
 ![login](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/a1d39031-c5f8-47b1-aa99-5d9119c0a765)
 ![registration](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/17ac2e41-dc10-4d79-b129-3786c1b2b68a)
+
+<h4>Adding the electro gadgets pics(representation pic)</h4>
+![s23](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/f18016cd-9d92-4afe-bc4b-967ba1c0be52)
