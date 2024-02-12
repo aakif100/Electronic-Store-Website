@@ -13,6 +13,7 @@
 ![s23](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/f18016cd-9d92-4afe-bc4b-967ba1c0be52)
 
 <h4>profile pic</h4>
+
 ![profile_pic](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/94ff985a-b16b-486a-a913-3f78f3081aa1)
 
 <h4>landing page nav bar and the page will consist of the gadgets</h4>
