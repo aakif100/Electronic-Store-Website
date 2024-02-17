@@ -19,3 +19,6 @@
 <h4>landing page nav bar and the page will consist of the gadgets</h4>
 
 ![landing page](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/26dd5668-634b-4e16-851c-a3ffcbfb070d)
+
+
+![shopping page](https://github.com/aakif100/Electronic-Store-Website/assets/137098447/d2231ca5-e996-4195-93a0-f7548692b754)
